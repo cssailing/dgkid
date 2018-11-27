@@ -13,8 +13,8 @@ commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           Sailing.cao
+  url:            https://www.dgkid.com
 
 paginate:         5
 
@@ -25,11 +25,11 @@ cover:            /assets/images/cover.jpg
 social:
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/cssailing
     desc:         Fork me on github
 
   - icon:         feed
-    url:          http://camporez.github.io/atom.xml
+    url:          http://www.dgkid.com/atom.xml
     desc:         Subscribe to my feed
 
 menu:
