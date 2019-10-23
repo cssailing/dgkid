@@ -1,5 +1,12 @@
+---
+layout: post
+title: "提问的智慧"
+quote: "当你提出问题的时候，请先表明你已经做了上述的努力；这将有助于树立你并不是一个不劳而获且浪费别人的时间的提问者。如果你能一并表达在做了上述努力的过程中所**学到**的东西会更好，因为我们更乐于回答那些表现出能从答案中学习的人的问题。"
+image: false
+video: false
+comments: true
+---
 # 提问的智慧
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
 **How To Ask Questions The Smart Way**
 
