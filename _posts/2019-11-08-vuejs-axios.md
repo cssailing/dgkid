@@ -8,8 +8,10 @@ comments: true
 ---
 
 -----
-
->  yarn add axios
+>
+```console
+  yarn add axios
+```
 
 ### main.js
 ```html
@@ -19,6 +21,7 @@ comments: true
   axios.defaults.timeout = 5000;
   axios.defaults.baseURL = 'http://127.0.0.1:8098/api'; //定义api路径
 ```
+
 ### vue.config.js
 ```html
   devServer: {
@@ -33,3 +36,5 @@ comments: true
         }, // 错误、警告在页面弹出
    }
 ```
+
+-----
