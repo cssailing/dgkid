@@ -8,7 +8,6 @@ comments: true
 ---
 
 -----
->
 ```console
   yarn add axios
 ```
