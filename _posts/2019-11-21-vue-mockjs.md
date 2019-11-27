@@ -39,3 +39,24 @@ comments: true
 ```
 
 -----
+
+or can use json file direct
+
+```html
+
+import apijson from "@/data/apijson.json";
+export default {
+	name: 'api-show',
+	components: {
+		'task': () => import('@/components/task')
+	},
+	data: function() {
+		return {
+			items: apijson
+		}
+	},	
+}
+
+```
+-----
+
