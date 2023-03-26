@@ -1,0 +1,10 @@
+# 删除mac启动台launchpad中的无效图标
+
+> 打开应用程序- 实用工具 - 终端. 以此出入如下命令：
+```bash
+
+defaults write com.apple.dock ResetLaunchPad -bool true
+killall Dock
+
+```
+再次打开 LaunchPad 的时候, 所有图标会被重建。
